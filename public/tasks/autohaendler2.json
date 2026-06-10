@@ -131,7 +131,7 @@
         "Verkaufspreis",
         "PS",
         "Baujahr",
-        "KM",
+        "km",
         "Einkaufspreis"
       ],
       "type": "voll"
@@ -150,7 +150,7 @@
         "Verkaufspreis",
         "PS",
         "Baujahr",
-        "KM",
+        "km",
         "Einkaufspreis"
       ]
     }
@@ -280,7 +280,7 @@
         "Verkaufspreis",
         "Einkaufspreis",
         "Baujahr",
-        "KM"
+        "km"
       ]
     }
   ],
